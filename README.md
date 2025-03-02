@@ -1,3 +1,5 @@
+<img src="./assets/asset_01.png" alt="GitHub Banner" width="100%">
+
 # 💫 About Me:
 Hi there! 👋 I'm Shakib Khan<br>I'm a passionate developer with a focus on web and mobile development. I enjoy learning new technologies, creating innovative solutions, and exploring the intersection of AI and business. Currently, I'm working on personal projects to enhance my skills in JavaScript, Kotlin, and more. Always open to collaborating and learning from others. Let's build something awesome together!
 
