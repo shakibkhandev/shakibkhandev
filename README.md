@@ -21,10 +21,10 @@ Hi there! 👋 I'm Shakib Khan<br>I'm a passionate developer with a focus on web
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shakib-khan-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shakibkhandev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shakib-khan-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=shakibkhandev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <picture>
